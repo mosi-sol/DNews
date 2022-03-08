@@ -8,3 +8,10 @@ decentralize news dapp
 
 ##
 
+### VER 1.0.1
+
+- bsc test net: 
+- SCAN link: 
+
+##
+
