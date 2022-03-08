@@ -15,3 +15,9 @@ decentralize news dapp
 
 ##
 
+<p align="right"> 
+    <a href="https://github.com/mosi-sol/DNews" target="blank">
+    <img src="https://img.shields.io/badge/Decentralize%20News-dapp-blue?style=flat" alt="cafe_pafe" /></a> 
+    <a href="https://github.com/mosi-sol/" target="blank">
+    <img src="https://img.shields.io/github/license/mosi-sol/live-contracts" alt="pafecafe" /></a>                                  
+</p>
