@@ -4,15 +4,13 @@ decentralize news dapp
 
 ### VER 1.0.0
 
-- bsc test net: 0xAED337e458920db62B135ea8BCFF54C4F52160CF
-- SCAN link: https://testnet.bscscan.com/address/0xaed337e458920db62b135ea8bcff54c4f52160cf
-
-##
+- <a href="https://testnet.bscscan.com/address/0xaed337e458920db62b135ea8bcff54c4f52160cf" target="blank">
+    <img src="https://img.shields.io/badge/View%20on-explorer-lightblue?style=flat" alt="cafe_pafe" /></a> 
 
 ### VER 1.0.1
 
-- bsc test net: 0x0Ad86d2184d6f9e8BB7566A7BE1fAdAa08cdc725
-- SCAN link: https://testnet.bscscan.com/address/0x0Ad86d2184d6f9e8BB7566A7BE1fAdAa08cdc725
+- <a href="https://testnet.bscscan.com/address/0x0Ad86d2184d6f9e8BB7566A7BE1fAdAa08cdc725" target="blank">
+    <img src="https://img.shields.io/badge/View%20on-explorer-lightblue?style=flat" alt="cafe_pafe" /></a> 
 
 ##
 
