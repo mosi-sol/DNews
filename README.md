@@ -19,7 +19,7 @@ decentralize news dapp
 
 ##
 
-this dapp is expermential, using for peoduct as your risk.
+this dapp is expermential, using for product is/as your risk.
 
 ##
 
