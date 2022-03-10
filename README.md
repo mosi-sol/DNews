@@ -12,6 +12,11 @@ decentralize news dapp
 - <a href="https://testnet.bscscan.com/address/0x0Ad86d2184d6f9e8BB7566A7BE1fAdAa08cdc725" target="blank">
     <img src="https://img.shields.io/badge/View%20on-explorer-lightblue?style=flat" alt="cafe_pafe" /></a> 
 
+### VER 1.0.2
+
+- <a href="https://testnet.bscscan.com/address/0x09ee14fa0e02e4479f64d7badb33f77c44081411" target="blank">
+    <img src="https://img.shields.io/badge/View%20on-explorer-lightblue?style=flat" alt="cafe_pafe" /></a> 
+
 ##
 
 <p align="right"> 
