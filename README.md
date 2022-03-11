@@ -17,6 +17,10 @@ decentralize news dapp
 - <a href="https://testnet.bscscan.com/address/0x09ee14fa0e02e4479f64d7badb33f77c44081411" target="blank">
     <img src="https://img.shields.io/badge/View%20on-explorer-lightblue?style=flat" alt="cafe_pafe" /></a> 
 
+### VER 1.0.3
+
+-  
+
 ##
 
 this dapp is expermential, using for product is/as your risk.
